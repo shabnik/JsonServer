@@ -1,0 +1,36 @@
+{
+  "all": [
+    {
+      "search": "Toronto",
+      "id": "1"
+    },
+    {
+      "search": "London",
+      "id": "2"
+    },
+    {
+      "search": "Paris",
+      "id": "3"
+    },
+    {
+      "search": "Tokyo",
+      "id": "4"
+    },
+    {
+      "search": "Thunder Bay",
+      "id": "5"
+    },
+    {
+      "search": "Thornhill",
+      "id": "6"
+    },
+    {
+      "search": "Fredericton",
+      "id": "7"
+    },
+    {
+      "search": "New York",
+      "id": "KOT8a2n"
+    }
+  ]
+}
